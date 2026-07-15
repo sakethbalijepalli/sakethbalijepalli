@@ -12,5 +12,5 @@ Backend engineer with 4+ years building high-performance systems in Java and Spr
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,spring,react,svelte,html,css,aws,vercel,mysql,redis,bitbucket,github,docker,postman)](https://skillicons.dev)
 
 ### 📊 GitHub stats
-![Saketh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakethbalijepalli&show_icons=true&theme=transparent)
-![GitHub Streak](https://streak-stats.demolab.com/?user=sakethbalijepalli&theme=transparent)
+![Saketh's GitHub stats](./stats.svg)
+![GitHub Streak](./streak.svg)
