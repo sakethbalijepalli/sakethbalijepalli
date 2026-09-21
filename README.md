@@ -14,3 +14,5 @@ Backend engineer with 4+ years building high-performance systems in Java and Spr
 ### 📊 GitHub stats
 ![Saketh's GitHub stats](./stats.svg)
 ![GitHub Streak](./streak.svg)
+
+[![GitLab Contributor Stats](https://contributors.gitlab.com/users/sakethbalijepalli/banner.svg)](https://contributors.gitlab.com/users/sakethbalijepalli)
